@@ -3,6 +3,7 @@
 📌 Problem Statement   1  
 In traditional video calling applications, when a user rotates their phone, the other person sees them rotated. This can be confusing and uncomfortable, especially if the person on the other side doesn’t want to rotate their device to adjust.
 
+
 🔹 Example:
 Imagine User A (Harsh) and User B (Ayush) are on a video call.
 
@@ -25,3 +26,4 @@ This project introduces a unique "Rotate Screen" feature that allows the user to
 2️⃣ A unique room code is generated, which User A can share with User B.
 3️⃣ User B enters the code and joins the call.
 4️⃣ Once connected, both users can:
+![Untitled design (12)](https://github.com/user-attachments/assets/dbab21f3-c07b-4619-b8bb-70c43d2c03a8)   example
